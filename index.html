@@ -240,5 +240,20 @@
     <!-- JAVASCRIPT -->
     <script src="app.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+      <footer
+    style="
+      text-align: center;
+      padding: 15px;
+      background-color: #333;
+      color: #fff;
+      font-size: 14px;
+    "
+  >
+    © <span id="year"></span> Ritik Kumar. All rights reserved.
+  </footer>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
   </body>
 </html>
