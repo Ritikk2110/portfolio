@@ -10,8 +10,7 @@ This portfolio showcases my skills, projects, and achievements as a developer pa
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript  
-- **UI Frameworks**: Bootstrap  
+- **Frontend**: HTML5, CSS, Javascript 
 - **Tools**: VS Code, Git, GitHub  
 - **Deployment**: Vercel
 
