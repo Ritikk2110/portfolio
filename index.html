@@ -23,6 +23,8 @@
   </head>
 
   <body>
+    <span id="moveText">Developed by Ritik</span>
+
   
     <header class="header">
       <nav class="navbar">
@@ -249,6 +251,18 @@
   </footer>
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+  <!--  PLAYFULL FEATURE FOR USER -->
+  <script> 
+    const text = document.getElementById('moveText');
+
+text.addEventListener('mouseenter', () => {
+  const x = Math.random() * (window.innerWidth - 150);
+  const y = Math.random() * (window.innerHeight - 50);
+  text.style.left = `${x}px`;
+  text.style.top = `${y}px`;
+});
+
   </script>
   </body>
 </html>
