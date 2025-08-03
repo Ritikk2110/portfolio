@@ -997,6 +997,11 @@ header {
 
 /* ///.....Skill Bar....../// */
 
+
+/*  to thisss      -------*/
+
+/* === Skills Section === */
+
 .skills-bar {
   padding: 25px 30px;
 }
@@ -1144,8 +1149,8 @@ header {
   text-decoration: none;
   color: #33bde7;
   display: none;
-}
-
+}  
+/*   to thereee       */
 /* ////.....Portfolio......///// */
 
 .portfolio {
@@ -1570,5 +1575,7 @@ header {
   padding: 5px 10px;
   border-radius: 10px;
 }
+
+/*new code */
 
 
