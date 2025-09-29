@@ -155,10 +155,10 @@ header {
 }
 
 .about-content img {
-      height: 222px;
-    width: 226px;
+      height: 232px;
+    width: 223px;
   object-fit: cover;
-  border-radius: 80%;
+  border-radius: 50%;
 }
 
 .about-content p {
