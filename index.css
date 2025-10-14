@@ -343,7 +343,7 @@ header {
 /* ////.....Portfolio......///// */
 
 .portfolio {
-  background:  #16bddf;
+  background:  #63949e;
   padding: 6rem 0;
 }
 
@@ -813,7 +813,9 @@ body {
 
 header {
  /* background: linear-gradient(#03f494d4, #90aaa6 , #ffbcbc , #d234b7cc );*/
-  background-color: #16bddf;
+ background: linear-gradient(#deebe6d4, #90aaa6, #ffbcbc, #391833cc);
+ /* background-color: #16bddf;*/
+
   height: 100vh;
 }
 

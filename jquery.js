@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 $(document).ready(function () {
     $(window).scroll(function () {
         // checks if window is scrolled more than 500px, adds/removes solid class
@@ -38,7 +38,7 @@ $(document).ready(function () {
         } // End if
     });
 });
-=======
+
 $(document).ready(function () {
     $(window).scroll(function () {
         // checks if window is scrolled more than 500px, adds/removes solid class
@@ -78,4 +78,4 @@ $(document).ready(function () {
         } // End if
     });
 });
->>>>>>> 15777ade410cec070b6ed125735353bfd239e5a3
+
